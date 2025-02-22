@@ -20,7 +20,7 @@ To get a local copy of the project, follow these steps:
 # Open a terminal and navigate to your desired directory
 
 # Clone the repository
-git clone https://github.com/your-username/expense-manager.git
+git clone https://github.com/TelRich/expense-manager.git
 
 # Change to the project directory
 cd expense-manager
